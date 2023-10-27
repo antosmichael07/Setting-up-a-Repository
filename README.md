@@ -13,7 +13,7 @@ Windows: del C:/users/user/.shh/*
 
 ### Working with git
   Linux: touch README.md <br>
-Windows: ? <br>
+Windows: echo # Example > README.md <br>
 git init <br>
 git branch -M main <br>
 git remote add origin git@github.com:user/repository.git <br>
